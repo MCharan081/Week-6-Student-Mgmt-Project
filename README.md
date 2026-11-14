@@ -83,7 +83,7 @@ python main.py
 Python Internship - Week 6 Final Project
 
 ## Author
-Student Name: YOUR NAME
+Student Name: G.Mani Charan
 
 ## Conclusion
 The Student Management System is a simple Python application developed to manage student information efficiently.
